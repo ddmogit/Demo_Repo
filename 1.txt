@@ -2,4 +2,5 @@ Hello,
 My name is Imran. 
 Welcome to DevOps Training
 
-on DevOps
+<<<<<<< HEAD
+on DevOps & on YouTube
